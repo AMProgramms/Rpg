@@ -1,0 +1,39 @@
+﻿  Rpg.cpp
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(14,32): warning C4081: требуется "newline"; обнаружен ";"
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(258,22): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(259,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(263,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(264,22): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(265,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(328,23): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(329,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(333,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(334,23): warning C4244: -=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(335,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(379,25): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(387,27): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(399,30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(401,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(402,18): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(403,24): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,42): warning C4101: hi3: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,37): warning C4101: hi2: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,57): warning C4101: hill: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,28): warning C4101: pol: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,47): warning C4101: hi4: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,11): warning C4101: ht2: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,26): warning C4101: ht5: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,22): warning C4101: ciki: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,6): warning C4101: y: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,16): warning C4101: ht3: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,51): warning C4101: ht10: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,46): warning C4101: ht9: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,21): warning C4101: ht4: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,52): warning C4101: hi5: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,31): warning C4101: ht6: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,57): warning C4101: exit: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(193,33): warning C4101: hi: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,41): warning C4101: ht8: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,36): warning C4101: ht7: неиспользованная локальная переменная
+C:\Users\TopDesktop-1\Desktop\AllWorks\2020\Rpg.cpp(194,6): warning C4101: ht1: неиспользованная локальная переменная
+  RPG Basic.vcxproj -> C:\Users\TopDesktop-1\source\repos\RPG Basic\Debug\RPG Basic.exe
